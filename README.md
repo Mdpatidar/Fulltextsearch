@@ -59,6 +59,7 @@ What’s more, compared to Elasticsearch, facets in Solr are precise and do not 
 
 
 ## Refference Links
-<https://logz.io/blog/solr-vs-elasticsearch/>
-<https://sematext.com/blog/solr-vs-elasticsearch-differences/>
+| <https://logz.io/blog/solr-vs-elasticsearch/> |
+|  ------------------------ |
+|<https://sematext.com/blog/solr-vs-elasticsearch-differences/> |
 
